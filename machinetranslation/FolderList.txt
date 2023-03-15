@@ -1,0 +1,7 @@
+.env
+FolderList.txt
+tests
+tests.py
+translator.py
+__init__.py
+__pycache__
